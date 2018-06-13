@@ -1,2 +1,2 @@
-# tdcconnects
-official AMP website for latest TDC Connects sessions
+# tdcguideslack
+official guide for TDC Community on slack 
